@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpp/static.md",
+                "file": "Cpp/preprocessing elements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpp/static.md",
+                "file": "Cpp/preprocessing elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpp/static.md",
+                "file": "Cpp/preprocessing elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpp/static.md"
+                "file": "Cpp/preprocessing elements.md"
               }
             }
           },
@@ -157,16 +157,20 @@
       "obsidian-quick-tagger:Remove Tag from Current Note": false
     }
   },
-  "active": "0d0483eec2354a43",
+  "active": "aa72dd62b493bb7c",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Cpp/static.md",
-    "Cpp/Linking.md",
-    "Cpp/Compiling and Linking.md",
+    "Cpp/header.md",
+    "Cpp/preprocessing elements.md",
     "Cpp/Compiling.md",
+    "Cpp/Compiling and Linking.md",
+    "Cpp/Functions.md",
+    "Cpp/runtime.md",
+    "Cpp/static.md",
+    "Cpp/Types.md",
+    "Untitled.md",
+    "Cpp/Linking.md",
     "Cpp/build.md",
     "Cpp/Cmake.md",
-    "Cpp/runtime.md",
     "Cpp/Compilation Time.md",
     "Cpp/built.md",
     "Tablet test.md",
@@ -187,12 +191,8 @@
     "CSharp/Stream e I-O.md",
     "CSharp/Pasted image 20230601192407.png",
     "CSharp/Ágil.md",
-    "2023-07-15.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "2023-06-03.md",
-    "CSharp/JSON.md",
-    "CSharp/Untitled.md",
     "CSharp/Pasted image 20230603121636.png",
     "CSharp/Pasted image 20230601205023.png",
     "CSharp/Pasted image 20230601204848.png",
