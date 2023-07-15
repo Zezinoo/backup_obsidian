@@ -120,17 +120,8 @@
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "75993ba673bc133a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +142,6 @@
   },
   "active": "0d0483eec2354a43",
   "lastOpenFiles": [
-    "Test.md",
     "Cpp/Compilation Time.md",
     "Cpp/Compiling and Linking.md",
     "Cpp/Linking.md",
