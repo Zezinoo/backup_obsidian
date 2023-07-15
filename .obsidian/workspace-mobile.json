@@ -1,19 +1,27 @@
 {
   "main": {
-    "id": "814e8354685a7f91",
+    "id": "cadbf594aa63d305",
     "type": "split",
     "children": [
       {
-        "id": "b11b4314a46ad4fd",
+        "id": "ddf0b86b3348957d",
         "type": "tabs",
         "children": [
           {
-            "id": "5191bdb49e432f3e",
+            "id": "20c107765f0b766c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "40eb159d1398fcd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Tablet test.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +33,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "70d5efb70371e74d",
+    "id": "2e787d12f76f3fbe",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a873d5c1e7643e0b",
+        "id": "cb31035c9f4da6ee",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +47,7 @@
         }
       },
       {
-        "id": "8b6307f3bde23008",
+        "id": "419517535cb88561",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,18 +62,18 @@
         }
       },
       {
-        "id": "60988c9e6a3a388c",
+        "id": "a08218b9f868a653",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": false
+            "useHierarchy": true
           }
         }
       },
       {
-        "id": "6ebd5ccaac323c66",
+        "id": "f91204488a7d2198",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +84,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "acd10ad96dcd5736",
+    "id": "d8b714844161cff8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9c82800bbad7e4a7",
+        "id": "fcc8f30629cbfdf1",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,42 +104,29 @@
         }
       },
       {
-        "id": "024caef694047a7c",
+        "id": "af83186f6b9e1239",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "0dde0bce0b9227a7",
+        "id": "d870f0234db99d08",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Test.md"
-          }
-        }
-      },
-      {
-        "id": "d58729ea0a388190",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
           "state": {}
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-quick-tagger:Add Tag to Current Note": false,
-      "obsidian-quick-tagger:Remove Tag from Current Note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -141,17 +135,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5191bdb49e432f3e",
+  "active": "20c107765f0b766c",
   "lastOpenFiles": [
-    "Cpp/built.md",
-    "Cpp/Compilation Time.md",
-    "Test.md",
-    "CSharp/Gestão de Arquivos e Diretorios.md",
+    "Tablet test.md",
+    "Untitled",
+    "Untitled.canvas",
     "Cpp/runtime.md",
+    "Cpp/built.md",
     "Cpp/build.md",
     "Cpp/Linking.md",
     "Cpp/Compiling.md",
     "Cpp/Compiling and Linking.md",
+    "Cpp/Compilation Time.md",
     "Cpp/Cmake.md",
     "CSharp/Ágil.md",
     "CSharp/Zip.md",
@@ -179,6 +174,7 @@
     "CSharp/Operadores encadeados.md",
     "CSharp/Objetivos.md",
     "CSharp/Monitoramento e Controle.md",
+    "CSharp/Lean.md",
     "Cpp",
     "CSharp"
   ]
