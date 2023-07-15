@@ -157,11 +157,11 @@
       "obsidian-quick-tagger:Remove Tag from Current Note": false
     }
   },
-  "active": "aa72dd62b493bb7c",
+  "active": "0d0483eec2354a43",
   "lastOpenFiles": [
-    "Cpp/header.md",
-    "Cpp/preprocessing elements.md",
     "Cpp/Compiling.md",
+    "Cpp/preprocessing elements.md",
+    "Cpp/header.md",
     "Cpp/Compiling and Linking.md",
     "Cpp/Functions.md",
     "Cpp/runtime.md",
