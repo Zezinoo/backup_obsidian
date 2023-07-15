@@ -11,12 +11,8 @@
             "id": "0d0483eec2354a43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tablet test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tablet test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tablet test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tablet test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +151,6 @@
   },
   "active": "0d0483eec2354a43",
   "lastOpenFiles": [
-    "Tablet test.md",
     "Test.md",
     "Cpp/Compilation Time.md",
     "Cpp/Compiling and Linking.md",
@@ -193,6 +184,7 @@
     "CSharp/JSON.md",
     "CSharp/Untitled.md",
     "CSharp/Frameworks Ageis.md",
+    "CSharp/Scrum.md",
     "CSharp/Pasted image 20230603121636.png",
     "CSharp/Pasted image 20230601205023.png",
     "CSharp/Pasted image 20230601204848.png",

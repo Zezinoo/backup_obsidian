@@ -8,30 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:Csharp",
+      "query": "tag:#Csharp",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:Cpp",
+      "query": "tag:#Cpp",
       "color": {
         "a": 1,
-        "rgb": 255
+        "rgb": 1909131
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "nodeSizeMultiplier": 2.03958333333333,
+  "lineSizeMultiplier": 2.55,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6638506018788111,
-  "close": false
+  "scale": 1.1573263622033891,
+  "close": true
 }
