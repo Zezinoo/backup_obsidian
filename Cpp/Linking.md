@@ -28,3 +28,4 @@ Here a few things are happening:
 - Note: This is not done at runtime. It's a compile time operation
 ## Possible Linker Errors
 The compiler could raise a linker error when you define the same symbol in different places. To avoid that, try to keep declarations out of .h files and try not to use the include keyword with .cpp files
+The linker has close ties with the [[static]] keyword

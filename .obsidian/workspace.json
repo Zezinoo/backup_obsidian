@@ -11,8 +11,12 @@
             "id": "0d0483eec2354a43",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cpp/static.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cpp/static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cpp/static.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cpp/static.md"
+              }
             }
           },
           {
@@ -151,20 +159,22 @@
   },
   "active": "0d0483eec2354a43",
   "lastOpenFiles": [
-    "Test.md",
-    "Cpp/Compilation Time.md",
-    "Cpp/Compiling and Linking.md",
+    "Untitled.md",
+    "Cpp/static.md",
     "Cpp/Linking.md",
-    "Cpp/built.md",
-    "Cpp/Cmake.md",
-    "CSharp/Pasted image 20230601192335.png",
+    "Cpp/Compiling and Linking.md",
     "Cpp/Compiling.md",
     "Cpp/build.md",
+    "Cpp/Cmake.md",
     "Cpp/runtime.md",
+    "Cpp/Compilation Time.md",
+    "Cpp/built.md",
+    "Tablet test.md",
+    "Test.md",
+    "CSharp/Pasted image 20230601192335.png",
     "CSharp/Gestão de Arquivos e Diretorios.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Cpp",
     "CSharp/Artefatos.md",
     "CSharp/Arvore X-DOM.md",
@@ -183,8 +193,6 @@
     "2023-06-03.md",
     "CSharp/JSON.md",
     "CSharp/Untitled.md",
-    "CSharp/Frameworks Ageis.md",
-    "CSharp/Scrum.md",
     "CSharp/Pasted image 20230603121636.png",
     "CSharp/Pasted image 20230601205023.png",
     "CSharp/Pasted image 20230601204848.png",
