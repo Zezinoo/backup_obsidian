@@ -1,0 +1,6 @@
+- [ ] Imprimir Geap
+- [ ] Pegar a fatura da caixa habitaçao
+- [ ] Debito em conta
+	- [ ] Claro
+	- [ ] Condominio
+	- [ ] Energia
