@@ -24,3 +24,4 @@ car.GetInfo();
 }
 ```
 In C++, member of classes are private by default, meaning they can only be acessed by other members of the class. You could change this behavior with the public keyword.
+Note that the private member m_model has to be changed used a [[setter]] , which is a function that can acess private member inside the class. One would also have to use [[getter]] to acess the value of a member outside the class. 
